@@ -1,0 +1,5 @@
+sources:
+  my-bigquery-source:
+    kind: bigquery
+    project: YOUR_PROJECT_ID
+    location: us
